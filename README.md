@@ -83,7 +83,7 @@ The WHOIS query returned domain registration information including:
 
 **Evidence:**
 
-![WHOIS Enumeration](S1.jpeg)
+![WHOIS Enumeration](s1.png)
 
 ---
 
@@ -109,7 +109,7 @@ The DNS query was successfully completed and returned the target's IPv4 address.
 
 **Evidence:**
 
-![Nslookup](S2.jpeg)
+![Nslookup](s2.png)
 
 ---
 
@@ -147,7 +147,7 @@ The identified A record resolved to:
 
 **Evidence:**
 
-![DNSRecon](S3.jpeg)
+![DNSRecon](s3.png)
 
 ---
 
@@ -180,7 +180,7 @@ The target IP identified during the enumeration was:
 
 **Evidence:**
 
-![WhatWeb](S4.jpeg)
+![WhatWeb](s4.png)
 
 ---
 
@@ -208,7 +208,7 @@ The response identified Apache as the web server and returned additional HTTP re
 
 **Evidence:**
 
-![cURL HTTP Header Analysis](S5.jpeg)
+![cURL HTTP Header Analysis](s5.png)
 
 ---
 
@@ -234,7 +234,7 @@ This indicates the presence of a Web Application Firewall protecting the web app
 
 **Evidence:**
 
-![WAFW00F](S6.jpeg)
+![WAFW00F](s6.png)
 
 ---
 
@@ -266,7 +266,7 @@ The Zenmap scan results were reviewed to identify network information, available
 
 **Evidence:**
 
-![Zenmap Network Scan](S7.jpeg)
+![Zenmap Network Scan](s7.png)
 
 ---
 
@@ -360,13 +360,13 @@ I also learned that reconnaissance and scanning activities must always be perfor
 
 The following screenshots provide evidence of the practical activities completed during W2-PM1:
 
-* **S1.jpeg** – WHOIS Enumeration
-* **S2.jpeg** – Nslookup DNS Resolution
-* **S3.jpeg** – DNSRecon Enumeration
-* **S4.jpeg** – WhatWeb Technology Enumeration
-* **S5.jpeg** – cURL HTTP Header Analysis
-* **S6.jpeg** – WAFW00F Detection
-* **S7.jpeg** – Zenmap Network Scanning
+* **S1.png** – WHOIS Enumeration
+* **S2.png** – Nslookup DNS Resolution
+* **S3.png** – DNSRecon Enumeration
+* **S4.png** – WhatWeb Technology Enumeration
+* **S5.png** – cURL HTTP Header Analysis
+* **S6.png** – WAFW00F Detection
+* **S7.png** – Zenmap Network Scanning
 
 ---
 
